@@ -1,0 +1,15 @@
+{
+  "name": "excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts" : {
+    "start" : "node ./dist/index.js",
+    "//": "jest",
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "build": "tsc",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC"
+}
